@@ -1,0 +1,5 @@
+bertopic
+pandas
+scikit-learn
+matplotlib
+openai
