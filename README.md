@@ -8,6 +8,7 @@
 - OpenAI GPT（gpt-4o-mini）を使って各トピックに自動ラベル付け
 
 ## ディレクトリ構成
+```
 bertopic-time-clustering-llm/
 ├── data/ # サンプルテキストデータ（CSV）
 │ └── sample_texts.csv
@@ -15,6 +16,7 @@ bertopic-time-clustering-llm/
 │ └── bertopic_time_clustering_llm.ipynb
 ├── requirements.txt # 必要パッケージリスト
 └── README.md # このファイル
+```
 
 ## 環境構築と実行手順
 1.必要ライブラリをインストール
